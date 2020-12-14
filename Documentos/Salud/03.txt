@@ -1,0 +1,34 @@
+El ejercicio a intervalos de alta intensidad reduce la gravedad de la insuficiencia cardíaca, según un estudio.
+El entrenamiento a intervalos de alta intensidad fortalece el corazón incluso más que el ejercicio moderado. Ahora investigadores de la Universidad Noruega de Ciencia y Tecnología han encontrado varias respuestas a lo que hace que los entrenamientos duros sean tan efectivos.
+
+"Nuestra investigación en ratas con insuficiencia cardíaca muestra que el ejercicio reduce la gravedad de la enfermedad, mejora la función cardíaca y aumenta la capacidad de trabajo. Y la intensidad del entrenamiento es realmente importante para lograr este efecto", explica Thomas Stolen, uno de los líderes del estudio, que se ha publicado en la revista Journal of Molecular and Cellular Cardiology.
+
+Los investigadores se esforzaron en investigar lo que sucede dentro de las diminutas células del músculo cardíaco después de un ejercicio regular. "Encontramos que el ejercicio mejora importantes propiedades tanto en la forma en que las células del músculo cardíaco manejan el calcio como en la conducción de señales eléctricas en el corazón. Estas mejoras permiten que el corazón lata más vigorosamente y pueden contrarrestar los trastornos del ritmo cardíaco que amenazan la vida", señala Stolen.
+
+
+Para que un corazón sea capaz de latir con fuerza, regularidad y de forma sincronizada, muchas funciones tienen que trabajar juntas. Cada vez que el corazón late, el nodo sinusal (el marcapasos del propio corazón) envía impulsos eléctricos al resto del corazón. Estos impulsos eléctricos se llaman potenciales de acción.
+
+Todas las células del músculo cardíaco están encerradas por una membrana. En reposo, el voltaje eléctrico en el interior de la membrana celular es negativo comparado con el voltaje en el exterior. La diferencia entre el voltaje en el exterior y el interior de la membrana celular se llama potencial de la membrana en reposo.
+
+Cuando los potenciales de acción llegan a las células del músculo cardíaco, necesitan superar el potencial de la membrana en reposo de cada célula para despolarizar la pared celular. Cuando esto sucede, el calcio puede fluir hacia la célula a través de canales en la membrana celular.
+
+El calcio inicia la contracción real de las células del músculo cardíaco. Cuando este proceso se completa, el calcio es transportado fuera de la célula o de vuelta a su lugar de almacenamiento dentro de cada célula del músculo cardíaco. Desde allí, el calcio está listo para contribuir a una nueva contracción la próxima vez que un potencial de acción pase rápidamente.
+Si la conducción eléctrica del corazón o el sistema de administración de calcio falla, el riesgo es que se contraigan menos células del músculo cardíaco, la contracción de cada célula sea débil y las señales eléctricas se vuelvan caóticas, de modo que las cámaras del corazón comiencen a agitarse.
+
+"Todos estos procesos son disfuncionales cuando alguien tiene una insuficiencia cardíaca. Los potenciales de acción duran demasiado tiempo, el potencial de reposo de las células es demasiado alto, y la función de transporte de los canales de calcio en la pared celular se ve perturbada. El calcio se escapa entonces constantemente de sus lugares de almacenamiento dentro de cada célula del músculo cardíaco", señala el investigador.
+
+Normalmente, el nodo sinusal hace que el corazón humano lata entre 50 y 80 veces por minuto en reposo. Esto es suficiente para suministrar a todos los sistemas de órganos y células del cuerpo la cantidad de sangre rica en oxígeno que necesitan para funcionar correctamente.
+
+Cuando nos levantamos para dar un paseo, nuestro corazón automáticamente comienza a latir un poco más rápido y a bombear un poco más fuerte para que el suministro de sangre se adapte al aumento del nivel de actividad. Cuanto mayor es la intensidad de la actividad, más duro tiene que trabajar el corazón.
+
+El ejercicio fortalece el corazón para que pueda bombear más sangre al resto del cuerpo con cada latido. De esta manera, el nodo sinusal puede tomarlo un poco más fácil, y las personas bien entrenadas tienen un ritmo cardíaco en reposo más bajo que las personas que no han hecho un entrenamiento de resistencia regular.
+
+En el otro extremo del continuo están las personas con insuficiencia cardíaca. Aquí la capacidad de bombeo del corazón es tan débil que los órganos ya no reciben suficiente sangre para mantener un buen funcionamiento. Las personas con insuficiencia cardíaca tienen una baja tolerancia al ejercicio y a menudo se quedan sin aliento con un esfuerzo mínimo. En otras palabras, aumentar la capacidad de bombeo del corazón es absolutamente crucial para la calidad de vida y la salud de las personas con insuficiencia cardíaca.
+
+En las ratas sanas, el corazón bombeó el 75% de la sangre con cada contracción. En las ratas con insuficiencia cardíaca, esta medida de capacidad de bombeo, llamada fracción de eyección, se redujo al 20%. La fracción de eyección aumentó al 35% después de seis a ocho semanas con sesiones de entrenamiento a intervalos casi diarios en una cinta de correr. Las ratas hicieron intervalos de cuatro minutos a aproximadamente el 90% de su capacidad máxima.
+
+"El entrenamiento a intervalos también mejoró significativamente el acondicionamiento de las ratas. Después del periodo de entrenamiento, su nivel de condición física era realmente mejor que el de las ratas no entrenadas que no habían tenido un ataque al corazón", argumenta Stolen.
+
+El efecto fue claro cuando los investigadores intentaron inducir la fibrilación ventricular en los corazones de las ratas enfermas: solo tuvieron éxito en esto en uno de los nueve animales que habían completado el entrenamiento a intervalos. En comparación, no tuvieron problemas para inducir la fibrilación en todas las ratas con insuficiencia cardíaca que no habían hecho ejercicio.
+
+Hasta ahora, el grupo de investigación había demostrado que el ejercicio mejora el manejo del calcio en las células del músculo cardíaco enfermo de varias maneras. El entrenamiento también hace que el sistema de cableado eléctrico del corazón sea más funcional. Además, demostraron que el ejercicio contrarrestaba los procesos que causan que el corazón se vuelva grande y rígido. En conjunto, estas mejoras hacen que cada latido sea más potente y reducen la gravedad de la insuficiencia cardíaca. También se redujo el riesgo de una peligrosa fibrilación ventricular.

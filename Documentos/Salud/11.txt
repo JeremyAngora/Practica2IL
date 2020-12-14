@@ -1,0 +1,21 @@
+Un estudio halla que los óvulos humanos son imperfectos con sorprendente frecuencia
+Los hallazgos sugieren que desde el comienzo del desarrollo de los óvulos humanos una proporción sorprendente de ovocitos está predestinada a ser cromosómicamente anormales.
+Más del 7% de los ovocitos humanos contienen al menos un par de cromosomas sin intercambio, lo que demuestra un nivel notablemente alto de fallo en la recombinación meiótica, según un estudio que aparece en el 'American Journal of Human Genetics'.
+
+Los hallazgos sugieren que desde el comienzo del desarrollo de los óvulos humanos una proporción sorprendente de ovocitos está predestinada a ser cromosómicamente anormales. Pero la frecuencia de los cromosomas sin intercambio no se ve afectada por la edad materna.
+
+"Sabemos desde hace mucho tiempo que la edad materna avanzada aumenta la probabilidad de óvulos cromosómicamente anormales, pero esta observación demuestra que muchos errores cromosómicos no tienen nada que ver con la edad materna --explica el primer autor Terry Hassold, de la Universidad Estatal de Washington--. Son, en cambio, errores que son extremadamente comunes en nuestra especie por razones que no están claras".
+La meiosis es un tipo de división celular que produce óvulos y espermatozoides. Implica dos rondas de división que finalmente dan como resultado cuatro células con solo una copia de cada cromosoma paterno y materno. Antes de la división, el material genético de las copias paterna y materna de cada cromosoma se intercambia mediante un proceso llamado recombinación meiótica o cruzamiento.
+
+El fallo en la recombinación es una de las principales causas de aneuploidía, que es la presencia de un número anormal de cromosomas. Pero la magnitud del efecto no ha sido clara, porque hasta ahora no se había intentado medir directamente la incidencia de cromosomas sin intercambio en una gran serie de ovocitos humanos, los óvulos inmaduros.
+
+Para abordar esta brecha de conocimiento, Hassold y sus colaboradores llevaron a cabo un gran análisis poblacional de cromosomas sin intercambio en el ovario fetal. En total, examinaron 7.396 ovocitos de 160 muestras de tejido. Para determinar la proporción total de ovocitos humanos que contienen uno o más cromosomas sin intercambio, contaron los pares de cromosomas que carecían de la proteína MLH1 asociada al cruzamiento.
+
+Los investigadores encontraron un nivel sorprendentemente alto de fallo en la recombinación, con más del 7% de los ovocitos con al menos un par de cromosomas sin intercambio. Según los autores, esto puede ser una subestimación de la frecuencia real de cromosomas sin intercambio en ovocitos humanos debido a los análisis conservadores utilizados, y el valor real puede ser de hasta entre 10% y 15%.
+Los autosomas más pequeños (es decir, los cromosomas 21 y 22) tienen más probabilidades de presentar fallos de recombinación. También existe una correlación positiva sutil pero estadísticamente significativa entre la edad gestacional y la frecuencia de cromosomas sin intercambio. Las observaciones indican un aumento de 1,6 veces en la aneuploidía en el grupo de edad gestacional más avanzada.
+
+"Probablemente la observación más sorprendente fue simplemente la alta proporción de huevos que contenían cromosomas sin intercambio --señala Hassold--. Sabíamos por estudios preliminares anteriores y por embarazos trisómicos que el valor sería alto, pero verlo directamente en óvulos humanos todavía era un poco discordante".
+
+En el futuro, los investigadores buscarán variantes genéticas que puedan afectar la probabilidad de tener cromosomas sin intercambio.
+
+Al final, los nuevos resultados pueden tener una importancia clínica práctica considerable. "A partir de nuestra experiencia al asesorar a parejas que han experimentado un aborto espontáneo o el nacimiento de un niño con un cromosoma extra o faltante, está claro que con frecuencia la culpa la acompaña --señala Hassold--. Nuestros resultados indican que, por el contrario, muchos de estos errores cromosómicos están simplemente integrados en la biología humana".
